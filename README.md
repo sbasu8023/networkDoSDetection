@@ -22,5 +22,5 @@ Detect denial of service connections give TCP/IP header information, different t
 ### For data scientists
 PresentationMaster.pdf
 
-### For cybersecurity and non-datascientist
+### For non-data scientists
 PresentationNonTechnical.pdf
